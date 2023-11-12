@@ -1,5 +1,5 @@
-## spanner ##
+## Spanner most important, spanner ##
 
-### update this mofo! ###
+This is very important:
 
-#### And one more thing. The future is not fixed. ###
+> Gaze steadfastly at things which, though far away, are yet present to the mind.
