@@ -1,5 +1,6 @@
-## Spanner most important, spanner ##
+## Wise words, mate ##
 
-This is very important:
 
 > Gaze steadfastly at things which, though far away, are yet present to the mind.
+
+- Parmenides
